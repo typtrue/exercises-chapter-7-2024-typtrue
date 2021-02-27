@@ -51,9 +51,9 @@
       "points": 1
     },
     {
-      "name": "flake8 --extend-exclude=object-oriented-programming",
+      "name": "flake8",
       "setup": "",
-      "run": "flake8",
+      "run": "flake8 --extend-exclude=object-oriented-programming",
       "input": "",
       "output": "",
       "comparison": "included",
