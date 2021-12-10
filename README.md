@@ -1,5 +1,7 @@
-# Week 8 Exercises
+# Object-oriented Programming in Python for Mathematicians
 
-Refer to the exercise instructions at https://object-oriented-python.github.io/8_inheritance.html#exercises
+## Chapter 7 Exercises
 
-These tests are for exercises 8.1 - 8.2. The tests build sequentially, so by exercise 8.2, all tests should pass with a correct implementation.
+Refer to the [exercise instructions](https://object-oriented-python.github.io/7_inheritance.html#exercises)
+
+These tests are for exercises 7.1 - 7.2. The tests build sequentially, so by exercise 7.2, all tests should pass with a correct implementation.
