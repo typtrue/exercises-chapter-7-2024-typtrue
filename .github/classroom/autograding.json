@@ -21,9 +21,9 @@
       "points": null
     },
     {
-      "name": "exercise-8-1",
+      "name": "exercise-7-1",
       "setup": "",
-      "run": "pytest tests/test_exercise_8_1.py",
+      "run": "pytest tests/test_exercise_7_1.py",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -31,9 +31,9 @@
       "points": 1
     },
     {
-      "name": "exercise-8-2-1",
+      "name": "exercise-7-2-1",
       "setup": "",
-      "run": "pytest tests/test_exercise_8_2_1.py",
+      "run": "pytest tests/test_exercise_7_2_1.py",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -41,9 +41,9 @@
       "points": 1
     },
     {
-      "name": "exercise-8-2-2",
+      "name": "exercise-7-2-2",
       "setup": "",
-      "run": "pytest tests/test_exercise_8_2_2.py",
+      "run": "pytest tests/test_exercise_7_2_2.py",
       "input": "",
       "output": "",
       "comparison": "included",
