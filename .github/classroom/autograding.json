@@ -2,8 +2,8 @@
   "tests": [
     {
       "name": "setup",
-      "setup": "sudo -H pip3 install setuptools pytest flake8 pep8-naming flake8-docstrings",
-      "run": "python3 -m pip install numpy",
+      "setup": "python3 -m pip install setuptools pytest flake8 pep8-naming flake8-docstrings numpy",
+      "run": "python3 -m pip install -U pip",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -23,7 +23,7 @@
     {
       "name": "exercise-7-1",
       "setup": "",
-      "run": "pytest tests/test_exercise_7_1.py",
+      "run": "python -m pytest tests/test_exercise_7_1.py",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -33,7 +33,7 @@
     {
       "name": "exercise-7-2-1",
       "setup": "",
-      "run": "pytest tests/test_exercise_7_2_1.py",
+      "run": "python -m pytest tests/test_exercise_7_2_1.py",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -43,7 +43,7 @@
     {
       "name": "exercise-7-2-2",
       "setup": "",
-      "run": "pytest tests/test_exercise_7_2_2.py",
+      "run": "python -m pytest tests/test_exercise_7_2_2.py",
       "input": "",
       "output": "",
       "comparison": "included",
