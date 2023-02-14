@@ -5,4 +5,4 @@ build-backend = "hatchling.build"
 [project]
 name = "chapter-7"
 version = "0.1"
-dependencies = ["matplotlib", "scipy", "numpy"]
+dependencies = ["numpy"]
