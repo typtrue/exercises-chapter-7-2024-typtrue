@@ -53,7 +53,7 @@
     {
       "name": "flake8",
       "setup": "",
-      "run": "venv/bin/python -m flake8 --extend-exclude=object-oriented-programming",
+      "run": "venv/bin/python -m flake8",
       "input": "",
       "output": "",
       "comparison": "included",
